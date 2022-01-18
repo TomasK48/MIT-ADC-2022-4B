@@ -46,7 +46,6 @@ void setup(void)
     init_uart();
 }
 
-//aodhashjalsjlksa
 void main(void)
 {
     uint32_t voltage = 0;
